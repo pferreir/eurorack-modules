@@ -1,4 +1,4 @@
-update=Mon 08 Mar 2021 11:30:53 PM CET
+update=2021 April 11, Sunday 10:33:56
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=tribus.net
+LastNetListRead=tribus_back.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
